@@ -1,2 +1,2 @@
-# Sangya Tyagi
-University of Westminster thesis survey link
+# University of Westminster thesis survey link
+Researcher: Sangya Tyagi
